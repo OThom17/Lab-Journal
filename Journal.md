@@ -10,6 +10,9 @@ To determine headlines a hashtag is placed before the text and the number of seq
 
 Furthermore including images is simply done by referencing the local copy after '![]'. 
 
+![/home/othom/Pictures/ubuntuhero.jpg]
+
+
 Bullet points are created using a dash like so:
 	- Example Uno
 
