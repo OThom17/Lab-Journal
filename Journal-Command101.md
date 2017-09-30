@@ -49,7 +49,7 @@ recalls and prints the contents of file cpuinfo into the terminal
 
 # Copy of the terminal after all commands
 
-"""
+```
 
 othom@othom-Alienware-15-R2:~$ ls
 Desktop    Downloads         First Task - ROCO222  Music     Public   Templates
@@ -78,5 +78,5 @@ cache size	: 6144 KB
 [Terminal continues to print the rest of cpuinfo file]
 
 
-"""
+```
 
