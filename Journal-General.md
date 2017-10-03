@@ -12,6 +12,8 @@ Furthermore including image links is simply done by referencing the local copy a
 
 ![Example Ubuntu Image](https://tr2.cbsistatic.com/hub/i/r/2016/08/09/e450825d-6592-49cd-a2a8-e172ef086841/resize/770x/d43e6e8ffe1465f20fe473f7d58cc896/ubuntuhero.jpg)
 
+To include local files they must be added to the github repo. and then linked using the address link.
+
 
 Bullet points are created using a dash like so:
 
